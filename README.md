@@ -6,7 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
 ### Summary
-Enthusiastic B.Sc. Information Technology student with a strong interest in Computer Networking and IT Support. Familiar with Routing & Switching, VLANs, Inter-VLAN Routing, HSRP, OSPF, DHCP, and DNS through academic learning and hands-on practice in Cisco Packet Tracer. Eager to learn new technologies, enhance technical skills, and build a successful career in the IT industry. yat thoda short karun de
+Enthusiastic B.Sc. Information Technology student with a strong interest in Computer Networking and IT Support. Familiar with Routing & Switching, VLANs, Inter-VLAN Routing, HSRP, OSPF, DHCP, and DNS through academic learning and hands-on practice in Cisco Packet Tracer. Eager to learn new technologies, enhance technical skills, and build a successful career in the IT industry. 
 # 💫 About Me:
 <br>
 <PRE>
@@ -31,6 +31,9 @@ Want to know more about me? [Check out My Portfolio](https://Pratikrane3711.gith
 # 💻 Tech Stack:
 ![CISCO](https://img.shields.io/badge/CISCO-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/CCNA-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/IPV4-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   ![CISCO](https://img.shields.io/badge/OSPF-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/VLAN-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/DHCP-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+  ![CISCO](https://img.shields.io/badge/HSRP-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/CISCO_PACKET_TRACER-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratikrane3711&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikrane3711&theme=radical&hide_border=false)<br/>
