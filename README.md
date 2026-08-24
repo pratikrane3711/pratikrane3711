@@ -9,13 +9,16 @@
 Enthusiastic B.Sc. Information Technology student with a strong interest in Computer Networking and IT Support. Familiar with Routing & Switching, VLANs, Inter-VLAN Routing, HSRP, OSPF, DHCP, and DNS through academic learning and hands-on practice in Cisco Packet Tracer. Eager to learn new technologies, enhance technical skills, and build a successful career in the IT industry. yat thoda short karun de
 # 💫 About Me:
 <br>
-👯 I’m looking to collaborate on Good Tech Skills<br>
-🌱 I’m currently learning Full Stack Web Development<br>
-💬 Ask me about Coding...<br>
-👯 Interested in backend technologies....<br>
-👯 Self Motivated<br>
-⚡ Quick learner<br>
-💬 Ask me about Javascript, Java, HTML, CSS, DSA<br>
+👯 I’m looking to collaborate on Good Tech Skills
+🌱 I’m currently learning Netwoeking
+💬 Ask me about Networking...
+👯 Interested in backend technologies....
+👯 Self Motivated
+⚡ Quick learner
+💬 Ask me about Networking, CCNA, Routing & Switching, OSPF, VLANs, ACLs
+📫 How to reach me: akshayrane848@gmail.com
+
+⚡ Want to Know More About Experiance: Check out My Resume<br>
 
 📫 How to reach me: ranepratik637@gmail.com <br>
 
@@ -25,7 +28,7 @@ Want to know more about me? [Check out My Portfolio](https://Pratikrane3711.gith
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rane.pratik/)
 
 # 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ! ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+![CISCO](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ! ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratikrane3711&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikrane3711&theme=radical&hide_border=false)<br/>
