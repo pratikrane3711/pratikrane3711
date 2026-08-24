@@ -9,6 +9,7 @@
 Enthusiastic B.Sc. Information Technology student with a strong interest in Computer Networking and IT Support. Familiar with Routing & Switching, VLANs, Inter-VLAN Routing, HSRP, OSPF, DHCP, and DNS through academic learning and hands-on practice in Cisco Packet Tracer. Eager to learn new technologies, enhance technical skills, and build a successful career in the IT industry. yat thoda short karun de
 # 💫 About Me:
 <br>
+<PRE>
 👯 I’m looking to collaborate on Good Tech Skills
 🌱 I’m currently learning Netwoeking
 💬 Ask me about Networking...
@@ -20,7 +21,7 @@ Enthusiastic B.Sc. Information Technology student with a strong interest in Comp
 
 ⚡ Want to Know More About Experiance: Check out My Resume<br>
 
-📫 How to reach me: ranepratik637@gmail.com <br>
+📫 How to reach me: ranepratik637@gmail.com <br></PRE>
 
 
 Want to know more about me? [Check out My Portfolio](https://Pratikrane3711.github.io/)
