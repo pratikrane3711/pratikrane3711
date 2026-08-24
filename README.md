@@ -29,7 +29,7 @@ Want to know more about me? [Check out My Portfolio](https://Pratikrane3711.gith
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rane.pratik/)
 
 # 💻 Tech Stack:
-![CISCO](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ! ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
+![CISCO](https://img.shields.io/badge/CISCO-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/CCNA-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ! ![JavaScript](https://img.shields.io/badge/IPV4-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)   
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=pratikrane3711&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pratikrane3711&theme=radical&hide_border=false)<br/>
