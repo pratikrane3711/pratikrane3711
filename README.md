@@ -17,11 +17,9 @@ Enthusiastic B.Sc. Information Technology student with a strong interest in Comp
 👯 Self Motivated
 ⚡ Quick learner
 💬 Ask me about Networking, CCNA, Routing & Switching, OSPF, VLANs, ACLs
-📫 How to reach me: akshayrane848@gmail.com
+📫 How to reach me: ranepratik637@gmail.com
 
-⚡ Want to Know More About Experiance: Check out My Resume<br>
-
-📫 How to reach me: ranepratik637@gmail.com <br></PRE>
+⚡ Want to Know More About Experiance: Check out My Resume<br></pre>
 
 
 Want to know more about me? [Check out My Portfolio](https://Pratikrane3711.github.io/)
