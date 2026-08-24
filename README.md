@@ -6,9 +6,7 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102204260/192700068-98ad5312-13c4-49ba-bc0a-d3de1fb9d5fb.gif">
 
 ### Summary
-A Passionate Developer, Who loves to create beautiful and functional websites. Proficient in Web Development, HTML, CSS, JavaScript, Java, Data Structure, And Algorithms. Seeking to further improve skills as the future full stack developer at Atmospheric Solutions. I am passionate to learn new technology, exploring new things, and improving my skills.
-
-
+Enthusiastic B.Sc. Information Technology student with a strong interest in Computer Networking and IT Support. Familiar with Routing & Switching, VLANs, Inter-VLAN Routing, HSRP, OSPF, DHCP, and DNS through academic learning and hands-on practice in Cisco Packet Tracer. Eager to learn new technologies, enhance technical skills, and build a successful career in the IT industry. yat thoda short karun de
 # 💫 About Me:
 <br>
 👯 I’m looking to collaborate on Good Tech Skills<br>
